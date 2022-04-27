@@ -1,4 +1,4 @@
-# Seasons-Multi-Label-Classification-
+# Seasons-Multi-Class-Classification-
 
 This is a multi label classifictaion problem. The problem stated is a hypothetical one where an exoplanet with varying seasons has been discovered and a part of the data collected, of fruits growing in different weather conditions has got corrupted.
 
