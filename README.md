@@ -1,6 +1,6 @@
 # Seasons-Multi-Class-Classification-
 
-This is a multi label classifictaion problem. The problem stated is a hypothetical one where an exoplanet with varying seasons has been discovered and a part of the data collected, of fruits growing in different weather conditions has got corrupted.
+This is a multi class classifictaion problem. The problem stated is a hypothetical one where an exoplanet with varying seasons has been discovered and a part of the data collected, of fruits growing in different weather conditions has got corrupted.
 
 The dataset has been provided by Tredence. It has 42,748 rows and 14 columns.
 
