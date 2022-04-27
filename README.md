@@ -10,6 +10,7 @@ The chosen metric for assessing/evaluating performance of the model is accuracy.
 
 The modelling is divided into 2 parts:
 *** (TO DO --- Add file from GoogleDrive)
+
 Part 1:
 We will start with a simple model of logistic regression as baseline and then compare with SVM and then Gradient Trees.
 ***
